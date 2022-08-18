@@ -1,0 +1,2 @@
+#git maven jenkins 
+firstly we have to create a repo nd we have to add file\
